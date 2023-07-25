@@ -1,6 +1,7 @@
 class ExternalScene extends window.BaseScene {
   constructor() {
     super({
+      name: "test_island",
       player: {
         spawn: {
           x: 210,
