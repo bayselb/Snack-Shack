@@ -1,4 +1,4 @@
-# Test Island Example
+# Snack' Shack 
 
 Welcome to the Snack' Shack Community Island!
 
